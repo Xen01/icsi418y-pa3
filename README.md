@@ -1,4 +1,4 @@
-# ICSI 418Y - Programming Assignment 2
+# ICSI 418Y - Programming Assignment 3
 **Name:** Benny Wang
 
 ## Description
